@@ -14,4 +14,4 @@ dias_mora = st.number_imput ("Ingrese los dias de mora")
 
 
 
-resultado = lf.calcular_interes_mora()
+#resultado = lf.calcular_interes_mora()
