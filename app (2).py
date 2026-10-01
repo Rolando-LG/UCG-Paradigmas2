@@ -14,4 +14,4 @@ dias_mora = st.number_input("Ingrese los dias de mora", value = 30)
 
 resultado = lf.calcular_interes_mora(capital,tasa_anual_pct,dias_mora)
 
-st.write("El Resultado por atraso de mora es: ")
+st.write("El Resultado por atraso de mora es: resultado")
