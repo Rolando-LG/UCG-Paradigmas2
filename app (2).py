@@ -1,5 +1,5 @@
 import streamlit as st
-import librería_funciones as lf
+import libreria_funciones as lf
 
 st.title("Paradigmas de la Programacion")
 st.sidebar.image("UCG.png")
