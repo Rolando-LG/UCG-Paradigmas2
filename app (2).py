@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.title("Paradigmas de la Programacion")
-st.siderbar.image("UCG.png")
+st.sidebar.image("UCG.png")
 
 st.sidebar.title("Parámetros")
 
